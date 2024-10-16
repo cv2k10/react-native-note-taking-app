@@ -1,0 +1,13 @@
+/* Global styles */
+.page {
+  background-color: #f0f0f0;
+}
+
+.action-bar {
+  background-color: #65adf1;
+  color: white;
+}
+
+.btn {
+  font-size: 18;
+}
